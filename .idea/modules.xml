@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PrettyChat.iml" filepath="$PROJECT_DIR$/.idea/PrettyChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Auth-Server/X-Auth-Server.iml" filepath="$PROJECT_DIR$/X-Auth-Server/X-Auth-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Chat-Server/X-Chat-Server.iml" filepath="$PROJECT_DIR$/X-Chat-Server/X-Chat-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Client/X-Client.iml" filepath="$PROJECT_DIR$/X-Client/X-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Commons/X-Commons.iml" filepath="$PROJECT_DIR$/X-Commons/X-Commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Gateway/X-Gateway.iml" filepath="$PROJECT_DIR$/X-Gateway/X-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Message/X-Message.iml" filepath="$PROJECT_DIR$/X-Message/X-Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X-Register/X-Register.iml" filepath="$PROJECT_DIR$/X-Register/X-Register.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="X-Gateway" />
+        <module name="X-Chat-Server" />
+        <module name="X-Auth-Server" />
+        <module name="X-Commons" />
+        <module name="X-Register" />
+        <module name="X-Client" />
+        <module name="X-Message" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PrettyChat" target="1.5" />
+      <module name="X-Auth-Server" target="1.5" />
+      <module name="X-Chat-Server" target="1.5" />
+      <module name="X-Client" target="1.5" />
+      <module name="X-Commons" target="1.5" />
+      <module name="X-Gateway" target="1.5" />
+      <module name="X-Message" target="1.5" />
+      <module name="X-Register" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
